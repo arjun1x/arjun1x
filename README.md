@@ -8,7 +8,7 @@
 
 # 🌐 Socials:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%237C3AED?style=flat&logo=vercel&logoColor=white)](https://yoursite.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%237C3AED?style=flat&logo=vercel&logoColor=white)](https://arjunsherugar.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjunsherugar)
 [![Email](https://img.shields.io/badge/Email-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arjunsherugar@gmail.com)
 
